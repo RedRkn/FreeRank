@@ -1,0 +1,8 @@
+name: FreeRank
+version: "${project.version}"
+main: cf.electrich.freerank.Main
+authors: [AlexClient, proccesing]
+description: /freerank plugin.
+commands:
+  freerank:
+    description: The main command.
